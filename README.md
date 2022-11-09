@@ -19,7 +19,6 @@ Trata-se do lançamento de um novo aplicativo: "Color Front", voltado a ajudar m
 <ul>
   <li>Responsável pela página Lista de Espera/Cadastro; </li>
   <li>Colocou a validação dos campos de CEP e SENHA; </li>
-  <li>Organizou a estrutura de arquivos e pastas do Projeto; </li>
   <li>Criação do layout com ilustração do aplicativo na PlayStore; </li>
 </ul>
 
